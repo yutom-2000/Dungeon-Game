@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="argparse4j-0.8.1-javadoc">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/argparse4j-0.8.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Downloads/argparse4j-0.8.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>
